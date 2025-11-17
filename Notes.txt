@@ -1,0 +1,75 @@
+Blueshift Interview Problems
+
+-----------------------------------
+Preamble
+-----------------------------------
+
+This was my first time programming in C#, as, in retrospect, my degree focused primarily on C and C++. However, I was 
+excited by the challenge and dedicated two days to self-directed learning prior to completing the task, focusing on C# 
+syntax, .NET conventions and object-oriented design.
+
+This research also served as my introduction to the SOLID principles. I completed a small practice problem (a converter) 
+before this research, and in retrospect, I see it violated several principles. I acknowledge I have much more to learn about 
+these topics and am eager to continue.
+
+-----------------------------------
+Problem 1
+-----------------------------------
+
+Time taken
+* Initial attempt: ~ 1.5 hours
+* Refactoring: ~1 hour
+* Total: ~2.5 hours
+
+After my research into SOLID principles for Problem 2, I revisited this problem and identified that my first attempt 
+violated the Open/Closed and Dependency Inversion principles. I then spent an additional hour refactoring the solution 
+to use an ICalculation interface and better separation of concerns.
+
+Searches
+* Google: "Casting int to string in C#", "int.MinValue C#", "C# throw Exception syntax".
+* Personal Notes: "C# modern switch statement syntax".
+* Gemini: Used to understand high-level SOLID violations.
+    * I researched why a single class for all calculations violated the Single Responsibility Principle, which led me to 
+    break them into separate files.
+    * I also researched methods for handling unknown return types, which led me to generics (e.g., ICalculation<TResult>) 
+    before I settled on a single string return type for simplicity.
+
+Trade-Offs/Assumptions
+* Assumed all calculations would only accept positive integers.
+* I prioritized a clean, SOLID-compliant design over cosmetic features. For instance, the output is a generic "The result: ..." 
+rather than a personalised string for each calculation. I felt adding this would overcomplicate the design while I was focusing 
+on implementing the core principles correctly.
+
+Improvements
+* The CalculationConsole class still has an Open/Closed Principle violation. To add a new calculation, both the 
+CalculationModeOptions array and the GetICalculation method's switch statement must be modified.
+* A potential solution could involve using a Dictionary<string, Func<ICalculation>> to map the input string to an object-creation 
+function. This would centralize the logic, but the dictionary itself would still need to be modified.
+* To add more personalised outputs, the ICalculation interface could be expanded to include a GetResultString(string result) 
+method, allowing each class to format its own output.
+
+-----------------------------------
+Problem 2
+-----------------------------------
+
+Time taken
+Approx. 1 hour
+
+Searches
+* Google: "Summation notation", "C# Max function documentation", "C# print array".
+* Gemini: I used AI to review my initial class for SOLID compliance. It helped me understand that my original class was violating
+ the Single Responsibility Principle, which prompted my research into interface abstraction and the final refactored design.
+
+Trade-Offs/Assumptions
+* I assumed the graph of the initial x[] values was for reference only, and we weren’t required to create a replica of this
+
+Improvements
+At my current knowledge level, I don't see an obvious way to improve this solution. I'm sure a more experienced developer could 
+point out areas for enhancement, and I would be very interested to learn them.
+
+-----------------------------------
+Sign Off
+-----------------------------------
+
+Thank you for the opportunity. These problems were a fantastic challenge. I thoroughly enjoyed applying my self-led study of C# 
+and OOP principles to a practical exercise and am excited to continue learning.
