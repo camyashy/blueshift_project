@@ -1,0 +1,14 @@
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\bin\Debug\net10.0\Calculator.exe
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\bin\Debug\net10.0\Calculator.deps.json
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\bin\Debug\net10.0\Calculator.dll
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\bin\Debug\net10.0\Calculator.pdb
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.dll
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.pdb
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+D:\Cammy's Documents\Projects\BlueshiftProject\Calculator\obj\Debug\net10.0\ref\Calculator.dll

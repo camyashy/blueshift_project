@@ -1,0 +1,14 @@
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.AssemblyInfoInputs.cache
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.AssemblyInfo.cs
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.csproj.CoreCompileInputs.cache
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\bin\Debug\net10.0\SmoothingFunction.exe
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\bin\Debug\net10.0\SmoothingFunction.deps.json
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\bin\Debug\net10.0\SmoothingFunction.runtimeconfig.json
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\bin\Debug\net10.0\SmoothingFunction.dll
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\bin\Debug\net10.0\SmoothingFunction.pdb
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.dll
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\refint\SmoothingFunction.dll
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.pdb
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\SmoothingFunction.genruntimeconfig.cache
+D:\Cammy's Documents\Projects\BlueshiftProject\SmoothingFunction\obj\Debug\net10.0\ref\SmoothingFunction.dll
